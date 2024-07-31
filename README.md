@@ -9,4 +9,5 @@ Tableau is a powerful data visualization tool used for converting raw data into 
 # Dashboard images
 ![Covid_19_dashboard](https://github.com/user-attachments/assets/f755b62a-43de-4c6a-a259-b43651b344cc)
 
+**Earthquake Dashboard Analysis**
 ![Earthquake_dashboard](https://github.com/user-attachments/assets/92dcc854-c2a7-491f-a573-1c4955d8c449)
